@@ -3,7 +3,7 @@
 [![license](https://img.shields.io/github/license/matheuspiment/GCS-Atividade-Supervisionada-1-Grupo05.svg?)](https://github.com/matheuspiment/GCS-Atividade-Supervisionada-1-Grupo05/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/matheuspiment/GCS-Atividade-Supervisionada-1-Grupo05.svg?)](https://github.com/matheuspiment/GCS-Atividade-Supervisionada-1-Grupo05/releases/latest)
 
-Rpositório destinado à simulção de uma equipe de projeto para o desenvolvimento de um
+Repositório destinado à simulção de uma equipe de projeto para o desenvolvimento de um
 sistema de informação. Esse projeto terá, dentre as várias gerências, a Gerência de
 Configuração de Software (GCS). 
 
