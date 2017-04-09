@@ -3,6 +3,8 @@ Nome do(a) autor(a) da alteração: Keslley Lima da Silva
 Data da alteração: 05/04/2017
 Hora da alteração: 20:35:48
 
+Aqui está incluida uma nova linha
+
 Nome artefato: Agenda-1.txt
 Nome do(a) autor(a): Matheus Ribeiro Pimenta Nunes
 Data de criação: 03/04/2017
