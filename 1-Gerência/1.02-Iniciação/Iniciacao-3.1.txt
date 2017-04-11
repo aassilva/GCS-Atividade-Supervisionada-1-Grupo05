@@ -3,6 +3,8 @@ Nome do(a) autor(a) da alteração: Matheus Ribeiro Pimenta Nunes
 Data da alteração: 04/04/2017
 Hora da alteração: 20:25:34
 
+Aqui está incluida uma nova linha.
+
 Nome artefato: Iniciacao-3.txt
 Nome do(a) autor(a): Keslley Lima da Silva
 Data de criação: 04/04/2017

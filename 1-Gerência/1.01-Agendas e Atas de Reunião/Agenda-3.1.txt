@@ -3,6 +3,8 @@ Nome do(a) autor(a) da alteração: Beatriz Nogueira Carvalho da Silveira
 Data da alteração: 05/04/2017
 Hora da alteração: 20:47:28
 
+Aqui está incluida uma nova linha.
+
 Nome artefato: Agenda-3.txt
 Nome do(a) autor(a): Keslley Lima da Silva
 Data de criação: 04/04/2017
