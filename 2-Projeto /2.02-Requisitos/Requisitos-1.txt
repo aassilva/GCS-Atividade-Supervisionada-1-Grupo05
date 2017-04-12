@@ -1,4 +1,5 @@
 Nome artefato: Requisitos-1.txt
 Nome do(a) autor(a): Matheus Ribeiro Pimenta Nunes
+Incluído nova linha no meio do documento.
 Data de criação: 07/04/2017
 Hora de criação: 13:13:22
