@@ -1,4 +1,7 @@
 Nome artefato: Requisitos-4.txt
 Nome do(a) autor(a): Keslley Lima da Silva
+linha incluida para merge
 Data de criação: 09/04/2017
 Hora de criação: 14:39:07
+
+
