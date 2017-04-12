@@ -3,6 +3,8 @@ Nome do(a) autor(a) da alteração: Keslley Lima da Silva
 Data da alteração: 05/04/2017
 Hora da alteração: 20:40:48
 
+Aqui está incluida uma nova linha
+
 Nome artefato: Planejamento-2.txt
 Nome do(a) autor(a): Antonio Arlis Santos da Silva
 Data de criação: 04/04/2017
