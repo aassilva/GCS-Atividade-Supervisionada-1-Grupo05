@@ -3,6 +3,8 @@ Nome do(a) autor(a) da alteração: Keslley Lima da Silva
 Data da alteração: 05/04/2017
 Hora da alteração: 20:38:20
 
+Aqui está incluida uma nova linha
+
 Nome artefato: Iniciacao-4.txt
 Nome do(a) autor(a): Beatriz Nogueira Carvalho da Silveira
 Data de criação: 04/04/2017
