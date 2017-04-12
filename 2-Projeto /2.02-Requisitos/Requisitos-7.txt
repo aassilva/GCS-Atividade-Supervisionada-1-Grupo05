@@ -1,0 +1,6 @@
+
+Nome artefato: Requisitos-7.txt
+Nome do(a) autor(a): Matheus Ribeiro Pimenta Nunes
+Data de criação: 12/04/2017
+Hora de criação: 19:12:31
+documento criado no trunk
