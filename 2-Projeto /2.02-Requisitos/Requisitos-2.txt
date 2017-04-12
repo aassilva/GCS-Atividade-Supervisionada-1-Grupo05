@@ -1,4 +1,6 @@
 Nome artefato: Requisitos-2.txt
 Nome do(a) autor(a): Beatriz Nogueira Carvalho da Silveira
+Incluído nova linha no meio do documento.
 Data de criação: 07/04/2017
 Hora de criação: 21:32:32
+Incluído nova linha.
