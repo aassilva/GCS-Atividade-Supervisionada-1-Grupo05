@@ -1,5 +1,10 @@
 Nome artefato: Requisitos-8.txt
 Nome do(a) autor(a): keslley Lima da Silva
 Data de criação: 12/04/2017
+
 Hora de criação: 20:37:15
 documento criado no ramo2
+
+Hora de criação: 20:38:15
+documento criado no trunk
+
